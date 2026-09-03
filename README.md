@@ -1,7 +1,7 @@
 # Shields.io
 Genera imágenes SVG dinámicas a partir de URLs
 
-![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-green)
+![Estático](https://img.shields.io/badge/Legion--del--mal-Última--Versión-blue)
 
 ```brightgreen, red, blue, orange, lightgrey```
 
@@ -38,13 +38,13 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 ## Estructura de la organización!!
 
 ```
-📁 planes/               → Operaciones aprobadas por el Consejo
-📁 miembros/             → Fichas de cada miembro activo
-📁 guaridas/             → Ubicaciones y estado de nuestras bases
-📁 inteligencia/         → Expedientes de los héroes enemigos
-📄 misiones.yaml         → Estado global de todas las misiones
-📄 README.md             → Documentación principal del repositorio
-📄 nuevas-misiones.yaml  → Estado global de las nuevas misiones
+📁 planes/              → Operaciones aprobadas por el Consejo
+📁 miembros/            → Fichas de cada miembro activo
+📁 guaridas/            → Ubicaciones y estado de nuestras bases
+📁 inteligencia/        → Expedientes de los héroes enemigos
+📄 misiones.yaml        → Estado global de todas las misiones
+📄 README.md            → Documentación principal del repositorio
+📄 nuevas-misiones.yaml → Estado global de las nuevas misiones
 ```
 
 ## El Consejo de Villanos!!
