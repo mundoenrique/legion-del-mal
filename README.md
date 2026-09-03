@@ -26,7 +26,7 @@ Un detalle práctico: GitHub cachea las imágenes a través de Camo, así que un
 
 Para forzar la actualización en clase, agrega un parámetro cualquiera al final de la URL (&cacheSeconds=60).
 
-# 🦹‍♂️ La Legión del Mal
+# 🦹‍♂️ La Legión del Mal - Desde Remoto
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
