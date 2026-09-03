@@ -1,7 +1,7 @@
 # Shields.io
 Genera imágenes SVG dinámicas a partir de URLs
 
-![Estático](https://img.shields.io/badge/Legion--del--Mal-Activa-green)
+![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-green)
 
 ```brightgreen, red, blue, orange, lightgrey```
 
