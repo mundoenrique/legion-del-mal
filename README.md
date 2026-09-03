@@ -26,25 +26,25 @@ Un detalle práctico: GitHub cachea las imágenes a través de Camo, así que un
 
 Para forzar la actualización en clase, agrega un parámetro cualquiera al final de la URL (&cacheSeconds=60).
 
-# 🦹‍♂️ La Legión del Mal - Desde Repo Remoto y Local
+# 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
-## ¿Quiénes somos? - Remoto y Local
+## ¿Quiénes somos?
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 
 ## Estructura de la organización!!
 
 ```
-📁 planes/          → Operaciones aprobadas por el Consejo
-📁 miembros/        → Fichas de cada miembro activo
-📁 guaridas/        → Ubicaciones y estado de nuestras bases
-📁 inteligencia/    → Expedientes de los héroes enemigos
-📄 misiones.yaml    → Estado global de todas las misiones
-📄 README.md      → Documentación principal del repositorio
-📄 nuevas-misiones.yaml    → Estado global de las nuevas misiones
+📁 planes/               → Operaciones aprobadas por el Consejo
+📁 miembros/             → Fichas de cada miembro activo
+📁 guaridas/             → Ubicaciones y estado de nuestras bases
+📁 inteligencia/         → Expedientes de los héroes enemigos
+📄 misiones.yaml         → Estado global de todas las misiones
+📄 README.md             → Documentación principal del repositorio
+📄 nuevas-misiones.yaml  → Estado global de las nuevas misiones
 ```
 
 ## El Consejo de Villanos!!
