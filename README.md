@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/mundoenrique/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/mundoenrique/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/mundoenrique/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/mundoenrique/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/mundoenrique/legion-del-mal?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
