@@ -124,7 +124,7 @@ _Este repositorio es propiedad de la Legión del Mal. Acceso no autorizado será
 - Cobertura de vigilancia global: 100%
 
 **Inteligencia interceptada del día:**
-> There are 1,575 steps from the ground floor to the top of the Empire State building.
+> Hay 1.575 escalones desde la planta baja hasta la cima del Empire State Building.
 
 _Informe generado automáticamente por Brainiac v12.0_
 _"Los datos no mienten. Los seres orgánicos sí."_
