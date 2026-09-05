@@ -43,3 +43,18 @@
 | 2023-05-12 | Interceptar ataque en Times Square | Spiderman logró evadir a la Legión y escapar                        |
 | 2023-08-03 | Robo de tecnología avanzada        | Spiderman fue neutralizado temporalmente pero logró escapar         |
 | 2023-10-21 | Ataque a laboratorio secreto       | Spiderman logró frustrar el ataque pero sufrió daños significativos |
+
+## Estrategia recomendada
+
+**NUNCA enfrentar a Superman directamente sin Kryptonita.**
+
+**Recomendaciones adicionales:**
+- Utilizar estrategias de distracción y emboscadas.
+- Aprovechar el entorno urbano para limitar su movilidad.
+- Coordinar ataques en equipo para maximizar la efectividad.
+- Mantener siempre una vía de escape segura.
+- Evitar enfrentamientos directos cuando esté en superioridad numérica.
+
+---
+
+_"Yo soy Spider-Man, y con gran poder viene una gran responsabilidad."_
