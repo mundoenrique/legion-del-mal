@@ -51,7 +51,7 @@
 - Aprovechar el entorno urbano para limitar su movilidad.
 - Coordinar ataques en equipo para maximizar la efectividad.
 - Mantener siempre una vía de escape segura.
-- Evitar enfrentamientos directos cuando esté en superioridad numérica.
+- Evitar enfrentamientos directos salvo cuando la Legión esté en superioridad numérica.
 
 ---
 
