@@ -55,4 +55,4 @@
 
 ---
 
-_"Yo soy Spider-Man, y con gran poder viene una gran responsabilidad."_
+_"Yo soy el caos que acecha en la noche."_ - El duende verde
