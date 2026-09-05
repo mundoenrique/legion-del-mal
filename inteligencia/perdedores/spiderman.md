@@ -1,4 +1,4 @@
-# 🥶 Expediente: Spiderman
+# 🥶 Expediente: Spider-Man
 
 **Nombre real:** Peter Parker
 **Universo:** Marvel Comics
@@ -40,9 +40,9 @@
 
 | Fecha      | Misión                             | Resultado                                                           |
 |------------|------------------------------------|---------------------------------------------------------------------|
-| 2023-05-12 | Interceptar ataque en Times Square | Spiderman logró evadir a la Legión y escapar                        |
-| 2023-08-03 | Robo de tecnología avanzada        | Spiderman fue neutralizado temporalmente pero logró escapar         |
-| 2023-10-21 | Ataque a laboratorio secreto       | Spiderman logró frustrar el ataque pero sufrió daños significativos |
+| 2023-05-12 | Interceptar ataque en Times Square | Spider-Man logró evadir a la Legión y escapar                       |
+| 2023-08-03 | Robo de tecnología avanzada        | Spider-Man fue neutralizado temporalmente pero logró escapar        |
+| 2023-10-21 | Ataque a laboratorio secreto       | Spider-Man logró frustrar el ataque pero sufrió daños significativos |
 
 ## Estrategia recomendada
 
