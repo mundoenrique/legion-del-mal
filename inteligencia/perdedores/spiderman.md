@@ -46,8 +46,6 @@
 
 ## Estrategia recomendada
 
-**NUNCA enfrentar a Superman directamente sin Kryptonita.**
-
 **Recomendaciones adicionales:**
 - Utilizar estrategias de distracción y emboscadas.
 - Aprovechar el entorno urbano para limitar su movilidad.
