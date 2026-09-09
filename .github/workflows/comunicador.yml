@@ -17,6 +17,16 @@ on:
         description: "Escribe el mensaje que deseas enviar."
         required: true
         default: "todo bien 😎"
+
+      cow_character:
+        description: "Elige el personaje de la vaca para el mensaje."
+        required: true
+        type: choice
+        options:
+          - "eyes"
+          - "tux"
+          - "dragon"
+          - "ghostbusters"
       prioridad:
         description: "¿Cuál es la prioridad del mensaje?"
         required: true
@@ -44,4 +54,4 @@ jobs:
           echo "Mensaje: ${{ github.event.inputs.mensaje }}"
           echo "Fecha: $(date -u + %d-%m-%Y %H:%M:%S UTC)"
           echo "============================="
-          cowsay -f eyes "Villano: ${{ github.event.inputs.villano }} | Prioridad: ${{ github.event.inputs.prioridad }} | Mensaje: ${{ github.event.inputs.mensaje }}"
+          cowsay -f "${{ github.event.inputs.cow_character }}" "Villano: ${{ github.event.inputs.villano }} | Prioridad: ${{ github.event.inputs.prioridad }} | Mensaje: ${{ github.event.inputs.mensaje }}"
