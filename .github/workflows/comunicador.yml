@@ -13,6 +13,18 @@ on:
           - "Mystic"
           - "brainiac"
           - "Doomsday"
+      mensaje:
+        description: "Escribe el mensaje que deseas enviar."
+        required: true
+        default: "todo bien 😎"
+      prioridad:
+        description: "¿Cuál es la prioridad del mensaje?"
+        required: true
+        type: choice
+        options:
+          - "🟢 Alta"
+          - "🟡 Media"
+          - "🔴 Baja"
 
 jobs:
   transmitir-mensaje:
