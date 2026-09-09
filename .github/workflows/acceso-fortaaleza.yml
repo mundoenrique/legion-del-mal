@@ -15,3 +15,20 @@ jobs:
           ls -la
           echo ""
           echo "❎ pero que pasó no hay nada"
+
+      - name: revisar el contenido del repositorio
+        uses: actions/checkout@v4
+
+      - name: Veamos los planes ahora
+        run: |
+          echo "Contenido del repositorio después del checkout:"
+          ls -la
+          echo "✅ funciona"
+          echo ""
+          echo "planes de la legión:"
+          ls planes/
+          echo ""
+          echo "Villanos:"
+          ls villanos/
+          echo "Inteligencia:"
+          ls inteligencia/
