@@ -16,7 +16,7 @@ style acepta flat, flat-square, plastic, for-the-badge y social. logo toma cualq
 ## Badges dinámicos
 Leen datos reales del repositorio y se actualizan solos:
 
-![Workflow](https://img.shields.io/github/actions/workflow/status/mundoenrique/legion-del-mal/ci.yml)
+![Workflow](https://img.shields.io/github/actions/workflow/status/mundoenrique/legion-del-mal/first.yml)
 ![Release](https://img.shields.io/github/v/release/mundoenrique/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/mundoenrique/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/mundoenrique/legion-del-mal)
