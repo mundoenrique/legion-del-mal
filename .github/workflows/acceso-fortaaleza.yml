@@ -1,6 +1,7 @@
 name: 🌋 Acceso fortaleza
 
-on: push
+on:
+  workflow_dispatch:
 
 jobs:
   acceso-fortaleza-prohibida:
