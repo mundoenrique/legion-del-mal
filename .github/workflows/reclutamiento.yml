@@ -25,5 +25,24 @@ jobs:
           echo "Metadata: ${{ toJson(github) }}"
           echo "=============================="
 
+      - name: Capacidades del agente
+        run: |
+          echo "Capacidades detectadas"
+          echo "=============================="
+          echo ""
+          echo "Sistema operativo"
+          uname -a
+          echo ""
+          echo "Habilidades técnicas"
+          git --version
+          node --version
+          python3 --version
+          echo "=============================="
+
+      - name: Reconocimiento del terreno
+        run: |
+          echo "Reconociendo el terreno"
+          ls /
+
       - name: Despedida del agente
         run: echo "El agente se despide"
