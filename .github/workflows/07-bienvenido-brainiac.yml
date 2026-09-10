@@ -25,7 +25,7 @@ jobs:
               `- Issue: #${context.payload.issue.number}`,
               `- Título: ${context.payload.issue.title}`,
               '',
-              '_Mi intelecto de nivel 12 😁 procesará tu solicitud en breve._'
+              '_Mi intelecto de nivel 12_ 😁 _procesará tu solicitud en breve._'
             ].join('\n');
 
             await github.rest.issues.createComment({
